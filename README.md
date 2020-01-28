@@ -24,7 +24,7 @@
 	LightGBM 7th place solution  
 
 ## Multi-class classification : Tabular data
-**1st level. Costa Rican Household Poverty Level Prediction ** 
+**1st level. Costa Rican Household Poverty Level Prediction**  
 	A Complete Introduction and Walkthrough  
 	3250feats->532 feats using shap[LB: 0.436]  
 	XGBoost  
@@ -37,7 +37,8 @@
 	Keras+TF LB 0.18  
 
 ## Multi-class classification : Image classification
-**1st level. TensorFlow Speech Recognition Challenge **  
+
+**1st level. TensorFlow Speech Recognition Challenge**  
 	Speech representation and data exploration  
 	Light-Weight CNN LB 0.74  
 	WavCeption V1: a 1-D Inception approach (LB 0.76)  
